@@ -1,0 +1,3 @@
+user:
+  file:
+    location: /data/user_email.csv
